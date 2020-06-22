@@ -1,0 +1,4 @@
+rootProject.name = "HiltTextApp"
+include ':app'
+include ':feature-authorization'
+include ':core'
